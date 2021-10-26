@@ -1,0 +1,67 @@
+/* .App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
+.Thead{
+  background-color: #1d3f6e;
+   color: white; 
+}
+
+.full {
+  background-color: rgb(170, 60, 60);
+  color: rgb(175, 171, 171);
+  border: brown;
+  font-weight: bold;
+  border-radius: 15px;
+}
+.NotFull {
+  background-color: orange;
+  color: white;
+  border: orange;
+  font-weight: bold;
+  border-radius: 15px;
+}
+.freeSeat{
+  color: #FF9900;
+}
+.disableButton{
+  background-color: rgb(241, 188, 88);
+  color: rgb(236, 228, 213);
+  border: rgb(238, 177, 64);
+  font-weight: bold;
+  border-radius: 15px;
+}

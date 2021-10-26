@@ -1,0 +1,63 @@
+[
+	{
+		"userId": 1,
+		"id": 1,
+		"subject": "Python",
+		"date":"Wed Oct 27, 2021 ",
+        "time": "04 pm to 05 pm",
+        "availability": 10 
+      
+	},
+	{
+		"userId": 1,
+		"id": 2,
+		"subject": " Java",
+        "date":"Thu Oct 28, 2021 ",
+        "time":"04 pm to 05 pm",
+        "availability": 8 
+	},
+	{
+		"userId": 1,
+		"id": 3,
+		"subject": "Python",
+        "date":"Fri Oct 29, 2021 ",
+        "time":"04 pm to 05 pm",
+        "availability": 5
+		
+	},
+	{
+		"userId": 1,
+		"id": 4,
+		"subject": "HTML",
+        "date":"Sat Oct 30, 2021 ",
+        "time": "04 pm to 05 pm",
+        "availability": 7 
+	},
+	{
+		"userId": 1,
+		"id": 5,
+		"subject": "JavaScript",
+        "date":"Mon Nov 01, 2021",
+        "time": "04 pm to 05 pm",
+        "availability": 0 
+
+	},
+	{
+		"userId": 1,
+		"id": 6,
+		"subject": "Java",
+        "date":"Tue Nov 02, 2021",
+        "time": "04 pm to 05 pm",
+        "availability": 6 
+
+	},
+	{
+		"userId": 1,
+		"id": 7,
+		"subject": "Python",
+        "date":"Wed Nov 03, 2021",
+        "time": "04 pm to 05 pm",
+        "availability": 12 
+
+	}
+]
